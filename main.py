@@ -1,1 +1,2 @@
-print("hello from main branch")
+def add(a, b):
+	return a+b
